@@ -1,16 +1,16 @@
-I have created my Professional Web-Development Portfolio! I created this using basic HTML and Advanced CSS code. I have met the following Acceptance Criteria:
+I have created my Professional Web-Development Portfolio! I created this using basic HTML and Advanced CSS code. I have taken my previous page and updated some of the styling on the page and added new projects I have worked on during my boot camp at Georgia Tech.
 
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+I have included screenshots of my work that when you click on them, you are brought to the page and can check out the deployed page. 
+I've added a link in the nav bar that, once clicked, you can download a copy of my resume. 
 
-I am excited to continue to improve on this throughout this course!
+I have updated my Resume as well to include links to my Github account and my Linkedin account also. I have also updated my Github account page and pinned my work that I think shows off my skills the most for you to check out!  
+
+Deployed page link:
+
+https://elrodjosh96.github.io/My-Professional-Portfolio/
+
+Links:
+
+Github: https://github.com/elrodjosh96
+Linkedin: https://www.linkedin.com/in/josh-elrod
+Email me at: elrodjosh96@gmail.com

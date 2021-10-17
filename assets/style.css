@@ -134,12 +134,14 @@ p {
     margin: 100px;
   }  
 
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 1000px) {
     body {
-      width: 50%;
+      position: relative;
+      float: inline-end;
     }
 
-@media screen and (min-width: 450px) {
+@media screen and (min-width: 650px) {
     body {
-        width: 100%;
-        }
+      position: relative;
+      float: inline-end;
+        } */
