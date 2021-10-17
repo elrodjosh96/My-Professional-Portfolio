@@ -51,15 +51,13 @@ body {
     font-size: 5rem;
     text-transform: uppercase;
     letter-spacing: 15px;
-    outline: 3px solid $white;
-    outline-offset: .25em;
     display: inline-block;
     margin: 0.25em 0 0.5em;
   }
 
 .hero {
     background-color: var(--background-color);
-    background-image: url(https://scontent-atl3-1.xx.fbcdn.net/v/t31.18172-8/14086487_10154019434848757_8407682689621823708_o.jpg?_nc_cat=109&ccb=1-5&_nc_sid=a9b1d2&_nc_ohc=UPAdMCXdkEIAX_M0oDW&tn=l8LXirjYMRv9tzKr&_nc_ht=scontent-atl3-1.xx&oh=f8904d893f0163052d41a8dd7ed39b4b&oe=615D9EB6);
+    background-image: url(./backgroundimgforportfolio.jpg);
     background-blend-mode: multiply;
     background-size: cover;
     height: 160vh;
@@ -67,21 +65,27 @@ body {
     
 }
 
-h2, p {
+h2 {
+  margin: 30px;
+  display: flex;
+  justify-content:space-around
+  }
+
+p {
     display: flex;
     justify-content:space-around
-  }
+}
+
 
 #resume div {
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
-    border-color: var(--header-text-color: #7e7e7e);
+    border-color: var(--header-text-color);
     border-style: solid;
     padding: 20px;
     border-radius: 50px;
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+    box-shadow: 10px 10px #bebebe;
     margin: 100px;
   }
 
@@ -89,12 +93,11 @@ h2, p {
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
-    border-color: var(--header-text-color: #7e7e7e);
+    border-color: var(--header-text-color);
     border-style: solid;
     padding: 20px;
     border-radius: 50px;
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+    box-shadow: 10px 10px #bebebe;
     margin: 100px;
   }
 
@@ -102,12 +105,11 @@ h2, p {
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
-    border-color: var(--header-text-color: #7e7e7e);
+    border-color: var(--header-text-color);
     border-style: solid;
     padding: 20px;
     border-radius: 50px;
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+    box-shadow: 10px 10px #bebebe;
     margin: 100px;
   }
 
@@ -124,12 +126,11 @@ h2, p {
     display: flex;
     justify-content: space-around;
     border-radius: 10px;
-    border-color: var(--header-text-color: #7e7e7e);
+    border-color: var(--header-text-color);
     border-style: solid;
     padding: 60px;
     border-radius: 50px;
-    box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+    box-shadow: 10px 10px #bebebe;
     margin: 100px;
   }  
 
