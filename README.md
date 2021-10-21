@@ -14,3 +14,7 @@ Links:
 Github: https://github.com/elrodjosh96
 Linkedin: https://www.linkedin.com/in/josh-elrod
 Email me at: elrodjosh96@gmail.com
+
+![alt text](./assets/portfolioimg1.jpg)
+![alt text](./assets/portfolioimg2.jpg)
+![alt text](./assets/portfolioimg3.jpg)
