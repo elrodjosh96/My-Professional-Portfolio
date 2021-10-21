@@ -74,6 +74,7 @@ h2 {
   }
 
 p {
+    font-size: larger;
     display: flex;
     justify-content:space-around
 }
